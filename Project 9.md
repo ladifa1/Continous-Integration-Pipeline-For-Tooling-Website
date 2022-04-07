@@ -46,7 +46,7 @@ Get administrator password from local server
 
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
 
-Configure Jenkins to retrieve source codes from GitHub
+ Configure Jenkins to retrieve source codes from GitHub
 
 ![](images/10.png)
 
@@ -55,7 +55,7 @@ Build job
 
 ![](images/11.png)
 
-Configure Jenkins to retrieve source codes from GitHub using Webhooks
+## Configure Jenkins to retrieve source codes from GitHub using Webhooks
 
 ![](images/9.png)
 
